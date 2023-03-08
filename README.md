@@ -17,3 +17,8 @@ I am a python developer and student of information and network technology class 
 * Master Python
 * Create Discord bot for games
 * Publish some game plugins
+
+# 🔥My Stats
+![My github stats](https://github-readme-stats.vercel.app/api?username=Fraaq&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&bg_color=0d1117&border_color=30363d)  
+  
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fraaq&theme=midnight-purple&bg_color=0d1117&border_color=30363d)  
