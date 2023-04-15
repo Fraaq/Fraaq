@@ -11,6 +11,7 @@ I am a python developer and student of information and network technology class 
 ![Wordpress icon](./icons/wordpress_icon.png) ![HTML icon](./icons/html_icon.png) ![CSS icon](./icons/css_icon.png)
 
 # ✔️ To-Do List
+* Get AWS certificate 
 * Publishing a project to help people protect themselves from cyber security attacks
 * Learn new programming language
 * Improve networking skills
