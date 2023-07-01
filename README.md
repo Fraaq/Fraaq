@@ -16,5 +16,5 @@ I am a python developer and student of information and network technology class 
 * Learn new programming language
 * Improve networking skills
 * Master Python
-* Create Discord bot for games
+* ~~Create Discord bot for games~~
 * Publish some game plugins
